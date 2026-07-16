@@ -17,4 +17,4 @@
 
 [Discontinued] [Flappy Bird](https://github.com/benjaminberger2008/Flappy-Bird) - A Flappy Bird clone made in WinForms.
 
-[Itch.io](https://drdinnerbone.itch.io/)
+[Games portfolio](https://drdinnerbone.itch.io/)
