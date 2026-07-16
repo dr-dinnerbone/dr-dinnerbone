@@ -10,3 +10,14 @@ body {
     margin: 0;
     padding: 20px;
 }
+a {
+    color: #DD4A4A;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+a:visited {
+    color: #FF8E8E;
+}
+a:hover {
+    color: #FF6B6B;
+}
